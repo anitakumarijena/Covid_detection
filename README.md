@@ -30,11 +30,11 @@ Template code is provided in the fashion-minst-sprite.  While some code has alre
 In a terminal or command window, navigate to the top-level project directory `Cloth differtiator` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook Cloth differtiator.ipynb
+ipython notebook COVID Detection.ipynb.ipynb
 ```  
 or
 ```bash
-jupyter notebook Cloth differtiator.ipynb
+jupyter notebook COVID Detection.ipynb.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
